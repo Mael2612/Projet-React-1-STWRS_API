@@ -1,10 +1,16 @@
-# Projet-React-1-STWRS_API-
-Projet 1 : API STARWARS
- Voici un site React sur lequel j'ai utilisé :
-                    - axios pour le fetch
-                    - Je fais appelle à une API pour afficher des informations, elles peuvent être triées en fonction de l'espèce ou bien par une recherche.<br />
-                    (il y a un bug que je n'ai pas encore réussi à regler, quant à la recherche en fonction des lettres saisies).
-                    - Je suis en train de voir comment mettre une image par lorsqu'il y a une source d'image qui est 404, je pense à onerror ou une ternaire mais ... c'est en cours.<br />
-                    - sass
-                    - chaque semaine je vais produire un nouveau site utilisant des possibilités différentes avec React et Node.
-                    Maël
+
+Voici une version corrigée et améliorée de ton texte :
+
+Projet React 1 - STAR WARS API
+Projet 1 : API STAR WARS
+
+Voici un site React que j'ai réalisé, utilisant les technologies suivantes :
+
+Axios pour effectuer les requêtes à l'API.
+Une API permettant d'afficher des informations. Ces données peuvent être triées en fonction de l'espèce ou via une recherche.
+(Note : il y a actuellement un bug avec la recherche par lettres saisies que je n'ai pas encore réussi à résoudre.)
+Je travaille également sur la gestion des erreurs liées aux images. Par exemple, lorsqu'une image renvoie une erreur 404, je prévois d'utiliser onError ou une ternaire pour afficher une image de remplacement. (En cours de développement)
+Sass pour styliser le site.
+Chaque semaine, je m'engage à produire un nouveau site en explorant différentes fonctionnalités et outils avec React et Node.
+
+Maël
